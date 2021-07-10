@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.noobcode.testdeeplinkproject",
+    "sha256_cert_fingerprints":
+    ["47:BC:81:D3:7A:8F:82:CE:AB:E5:01:E3:AC:B6:28:A9:63:1F:47:67:B6:6D:E7:19:CF:EF:82:ED:93:1D:9F:FE"]
+  }
+}]
